@@ -46,11 +46,11 @@ a {
 }
 
 .category-btn{
-  font-weight: bold !important;
+  font-weight: bold;
   text-transform: capitalize;
   display: flex;
   align-items: center;
-  justify-content: start;
+  /* justify-content: start; */
   cursor:pointer;
   background: transparent;
   outline: none;
